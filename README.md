@@ -44,19 +44,18 @@ Authentication & APIs
 <p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-256/jwt-3629021-3030099.png" alt="jwt" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original-wordmark.svg" alt="restapi" width="40" height="40"/></p>
 
 
 <p> <a href="mailto:gholapaniket0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/aniket-gholap-554a16143" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://github.com/aniketgholap0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
 
 💻 Featured Projects
-Project 1 – MyWebApp
+Project 1 – Enterprise Retail & Inventory Management Platform
 <p> <img src="https://img.shields.io/badge/.NET-8.0-blue?style=flat-square&logo=.net&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Angular-16-red?style=flat-square&logo=angular&logoColor=white" /> 
   <img src="https://img.shields.io/badge/SQL%20Server-2021-green?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> 
 </p> > A full-stack web application with **user authentication, REST APIs, and cloud deployment**.
-Project 2 – API Service
+Project 2 – Online Courses Platform
 <p> <img src="https://img.shields.io/badge/ASP.NET_Core-8.0-blue?style=flat-square&logo=.net&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Entity_Framework_Core-8.0-green?style=flat-square" /> 
   <img src="https://img.shields.io/badge/JWT_Authentication-orange?style=flat-square" /> 
