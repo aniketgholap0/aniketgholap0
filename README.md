@@ -39,9 +39,7 @@ Cloud & DevOps
 Databases & Backend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" alt="sqlserver" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/> </p>
+</p>
 Authentication & APIs
 <p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-256/jwt-3629021-3030099.png" alt="jwt" width="40" height="40"/>
