@@ -1,6 +1,7 @@
 <div align="center">
   
 # Hey, Hii ! 👋
+# I'm Aniket Gholap
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;3%2B+Years+Experience+Building+Web+Apps;Proficient+in+C%23,+Angular,+ASP.NET+Core;Entity+Framework+Core+|+SQL+Server+|+Azure)](https://git.io/typing-svg)
 
@@ -23,7 +24,7 @@ delivering clean, maintainable code and scalable solutions. I'm passionate about
 
 Languages & Frameworks
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
